@@ -1,0 +1,230 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.first {
+    height: 600px;
+    width: 400px;
+
+}
+.icon {
+    height: 200px;
+    background: #2269ba;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.threeIcon {
+    height: 200px;
+    background: azure;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.set {
+    width: 120px;
+    height: 170px;
+    background: #16457a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.txt {
+    color: azure;
+    font-family: Cambria, serif;
+    font-size: 30px;
+}
+.txt_s {
+    color: azure;
+    font-family: Cambria, serif;
+    font-size: 15px;
+}
+.second {
+    height: 250px;
+    width: 700px;
+    background: azure;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.content {
+    height: 250px;
+    width: 200px;
+    box-sizing: border-box;
+    background: azure;
+    border: 2px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title {
+    margin-top: 30px;
+    height: 40px;
+    font-family: Calibri, serif;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    height: 50px;
+    margin-top: 20px;
+    font-family: Calibri, serif;
+    text-align: center;
+    color: grey;
+    line-height: 25px;
+}
+.bottom {
+    height: 30px;
+    width: 120px;
+    margin-top: 25px;
+    border: 2px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bot {
+    font-family: Calibri, serif;
+}
+.third {
+    height: 300px;
+    width: 950px;
+    background: azure;
+    margin-top: 30px;
+}
+.name_tiile {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Calibri, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.categories {
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.content_new {
+    height: 250px;
+    width: 200px;
+    box-sizing: border-box;
+    background: azure;
+    border-left: 1px solid grey;
+    border-top: 1px solid grey;
+    border-right: 3px solid grey;
+    border-bottom: 2px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.iconn {
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-star-sharp {
+    height: 20px;
+    display: block;
+    color: grey;
+}
+.bo{
+    height: 30px;
+    width: 120px;
+    background: #7ff372;
+    margin-top: 25px;
+    border: 2px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.red{
+    color: #a13a3a;
+}
+.wrap {
+    box-sizing: border-box;
+    margin-top: 80px;
+    height: 500px;
+    width: 900px;
+    display: flex;
+
+}
+.left {
+    height: 500px;
+    width: 50%;
+    background: #4798f5;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+.right {
+    height: 500px;
+    width: 50%;
+    background: #4798f5;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+.blok {
+    width: 380px;
+    height: 100px;
+    background: white;
+    margin-left: 30px;
+    border-radius: 5px;
+    display: flex;
+}
+.blok1 {
+    width: 380px;
+    height: 100px;
+    background: white;
+    margin-right: 30px;
+    border-radius: 5px;
+    display: flex;
+}
+.tem {
+    height: 100%;
+    width: 30%;
+    background: #ffffff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.som_cont{
+    height: 100%;
+    width: 70%;
+    padding-top: 8px;
+    background: #ffffff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.ic{
+    width: 20px;
+    height: 20px;
+    background:grey;
+}
+.t1{
+    font-family: Calibri, serif;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
