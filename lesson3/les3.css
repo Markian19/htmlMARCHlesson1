@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.wrap {
+    margin-top: 30px;
+    height: 400px;
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #a9a7a7;
+}
+.bloks {
+    height: 300px;
+    width: 200px;
+    background: white;
+    border: 2px solid #565555;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+.round {
+    border: 2px solid #565555;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    background: #ffffff;
+    position: absolute;
+    top: -30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.icons {
+    width: 15px;
+    height: 15px;
+    background: #f5f57c;
+}
+.h1 {
+    display: block;
+    top: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.text {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.button {
+    height: 40px;
+    width: 110px;
+    border: 2px solid #565555 ;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.wrap2 {
+    background: #f5f57c;
+    margin-top: 30px;
+    height: 400px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.header {
+    width: 800px;
+    height: 80px;
+    background: #a9a7a7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img {
+    width: 800px;
+    height: 220px;
+    background: #123762;
+    position: relative;
+}
+.img2 {
+    width: 800px;
+    height: 100px;
+    background: #a9a7a7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.boxx {
+    width: 80px;
+    height: 80px;
+    background: #2a82e5;
+    position: absolute;
+    top: -40px;
+    left: 260px;
+}
+
+.box\,ever{
+    width: 80px;
+    height: 80px;
+    background: #2a82e5;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: absolute;
+    top: -40px;
+}
+.boxy {
+    width: 80px;
+    height: 80px;
+    background: #2a82e5;
+    position: absolute;
+    top: -40px;
+    right: 260px;
+}
+.logo {
+    height: 50px;
+    width: 150px;
+    background: #123762;
+    border-radius: 6px;
+    margin-right: 150px;
+}
+.navigation {
+    height: 50px;
+    width: 150px;
+    background: #a9a7a7;
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.search {
+    width: 25px;
+    height: 25px;
+    background: #123762;
+}
+.burger {
+    width: 25px;
+    height: 25px;
+    background: #123762;
+}
