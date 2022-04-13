@@ -1,0 +1,18 @@
+@media screen and (min-width: 0px) and (max-width: 900px){
+.cot1 { height: 100px;
+}
+    .cot2 {
+        flex-direction: column;
+
+    }
+.blk2 {
+    width: 100%;
+    height: 100px;
+}
+    .blk1 {
+        height: 150px;
+        width: 100%;
+        justify-content: space-around;
+    }
+
+}
